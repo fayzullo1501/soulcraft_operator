@@ -1,0 +1,3 @@
+[build]
+command = "npm run build"  # Замените на ваш скрипт сборки, если это необходимо
+publish = "soulcraft_callcenter"  # Замените на директорию, из которой Netlify будет раздавать файлы
